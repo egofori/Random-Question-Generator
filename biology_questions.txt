@@ -1,0 +1,309 @@
+The cell theory is one of the unifying themes of biology. Which of the following statements would be part of the
+cell theory?
+A) All life is made of cells. B) Cells are the smallest units of life.
+C) Cells come from preexisting cells. D) All of the above
+ 
+=
+You are told that the cells on a microscope slide are plant, animal, or bacterial. You look at them through a
+microscope and see cell walls and membrane-bound organelles. You conclude that the cells
+A) are plant cells. B) could be either plant or bacterial. C) are animal cells.
+D) could be plant, animal, or bacterial. E) are bacteria.
+ 
+=
+All cells
+A) are enclosed in a membrane that maintains internal conditions different from the surroundings.
+B) can interconvert chemical materials.
+C) have DNA as the genetic material.
+D) can interconvert forms of energy.
+E) All of the choices are correct.
+ 
+=
+Cells are small because as cell size increases, the
+A) volume and surface area decrease. B) volume increases faster than the surface area.
+C) surface area and volume increase at the same rate. D) surface area increases faster than the volume.
+5) The diameter of most animal and plant cells ranges from
+A) 1.0 to 10 microns. B) 0.01 to 0.1 microns. C) 10 to 100 microns.
+D) 100 to 1000 microns. E) 0.1 to 1.0 microns.
+ 
+=
+The diameter of most animal and plant cells ranges from
+A) 1.0 to 10 microns. B) 0.01 to 0.1 microns. C) 10 to 100 microns.
+D) 100 to 1000 microns. E) 0.1 to 1.0 microns.
+ 
+=
+The image on the left is a picture of a single-celled organism named Euglena. The
+specimen was viewed with a(n)
+A) Light microscope B) Fluorescence microscope
+C) Transmission electron microscope D) Scanning electron microscope
+E) Dissecting microscope
+ 
+=
+Light microscopes
+A) work by reflecting electrons off the surface of an object being studied.
+B) can generally magnify objects about 10,000 times without blurring.
+C) use light and glass lenses to magnify an image.
+D) typically provide more resolution than an electron microscope.
+E) All of the choices are correct.
+ 
+=
+A scraping of material from a person’s tooth revealed many bacteria found on the tooth surface. Such bacteria
+remain attached to the tooth surface by structures called
+A) pili B) anchoring junctions C) mitochondria D) flagella
+ 
+=
+Rods, spheres and spirals are shapes of cells observed in
+A) plants B) animals C) fungi D) bacteria
+ 
+=
+Cells without a membrane-bound nucleus and membrane systems in the cytoplasm are ____ cells.
+A) prokaryotic B) eukaryotic C) fungal D) protest E) more than one answer is correct
+ 
+=
+Most organelles in a eukaryotic cell are found in the
+A) cell wall B) cytoplasm C) nucleus D) capsule
+ 
+=
+A bacterial cell's DNA is found in its
+A) capsule. B) nucleoid region. C) nucleus. D) ribosomes.
+E) Bacteria do not have DNA
+ 
+=
+Which one of the following is not found in prokaryotic cells?
+A) ribosomes B) a membrane-bound nucleus C) a cell wall
+D) a capsule E) pili
+ 
+=
+Bacteria do not have a nucleus. Since the nucleus contains DNA, it can be concluded that bacteria do not
+contain DNA.
+A) True B) False
+ 
+=
+The nucleus of a cell
+A) is the region of the cell where ribosomes are degraded.
+B) contains DNA and controls cell activities
+C) is contained inside the nucleolus.
+D) is surrounded by a single layer of membrane.
+ 
+=
+Organelles found outside a eukaryotic cell and usually involved in movement of the cell or movement of
+substances past the cell are called
+A) cilia and flagella B) Cell walls and plasmodesmata
+C) Nucleus and nucleolus D) cytoplasm and endoplasm
+ 
+=
+In eukaryotic cells, internal membranes
+A) provide additional area where many metabolic processes occur.
+B) form membranous compartments called organelles.
+C) contain proteins essential for metabolic processes.
+D) greatly increase a cell's total membrane area.
+E) All of the choices are correct.
+ 
+=
+The Golgi apparatus stores, modifies, and packages proteins and other products of metabolism.
+A) True B) False.
+ 
+=
+When a cell is deprived of oxygen, its lysosomes tend to burst and release their contents into the cell. (This
+statement is true.) As a result of this, that cell would be expected to
+A) undergo self-digestion and die. B) recycle damaged organelles.
+C) produce additional ER. D) undergo cell division.
+E) produce replacement lysosomes.
+ 
+=
+Rough endoplasmic reticulum
+A) contains ribosomes for protein synthesis.
+B) creates an enormous surface area for cell metabolism
+C) contains a compartment to transfer and modify products of metabolism
+D) all of the above
+ 
+=
+The function of mitochondria is
+A) intracellular transport of proteins. B) photosynthesis. C) intracellular digestion.
+D) cellular respiration (ATP synthesis) E) lipid synthesis.
+ 
+=
+Insulin is a protein that is produced by certain pancreatic cells and secreted into the bloodstream. (This is true.)
+Which of the following choices best describes the route of insulin from its production to its exit from the cell?
+A) rough ER, transport vesicles, cell membrane
+B) rough ER, transport vesicles, Golgi apparatus, transport vesicles, cell membrane
+C) rough ER, lysosomes, transport vesicles, cell membrane
+D) rough ER, Golgi apparatus, smooth ER, cell membrane
+ 
+=
+Lysosomes
+A) destroy harmful bacteria engulfed by white blood cells.
+B) help to digest worn-out or damaged organelles.
+C) recycle materials within the cell.
+D) fuse with food vacuoles to expose nutrients to lysosomal enzymes.
+E) All of the choices are correct.
+ 
+=
+The function of chloroplasts is
+A) intracellular transport of proteins. B) intracellular digestion. C) lipid synthesis.
+D) photosynthesis. E) cellular respiration.
+ 
+=
+The cytoskeleton is a system of ___ in ___ cells.
+A) proteins – prokaryotic B) proteins – eukaryotic
+C) DNA – prokaryotic D) DNA – eukaryotic
+D) more than one answer is correct
+ 
+=
+Microtubules, microfilaments and intermediate filaments are components of the
+A) cell wall in plants B) plasma membrane in prokaryotes
+C) chromosome in eukaryotes D) chromosome in prokaryotes
+D) cytoskeleton
+ 
+=
+Which of the following functions could be assigned to the cytoskeleton?
+A) chromosome movement during mitosis.
+B) change in shape of an amoeba.
+C) movement (streaming) of cytoplasm in plant cells
+D) A & B
+E) A, B & C
+ 
+=
+Eukaryotic cells have transport vesicles, endoplasmic reticulum, Golgi apparatus and a nuclear envelope.
+Taken together, all these membranes represent the
+A) transfer system B) nuclear system
+C) endomembrane system D) cytoskeletal system
+ 
+=
+The membranous compartmentalization of a cell
+A) allows different metabolic processes to occur simultaneously.
+B) divides the cell into two equal-sized halves.
+C) requires the presence of a cell wall.
+D) is common in prokaryotes and eukaryotes.
+E) requires the presence of a large central vacuole.
+ 
+=
+Unlike animal cells, plant cells have __________ and __________ and _________.
+A) chloroplasts . . . cell walls… mitochondria.
+B) centrioles . . . cell walls… glycocalyx
+C) chloroplasts . . . cell walls… vacuoles
+D) centrioles . . . chloroplasts… vacuoles
+E) chloroplasts . . . cell walls… nucleoplasm
+ 
+=
+The functions of the central vacuole of plant cells include _______
+A) storing pigments that will help attract pollinating insects.
+B) storing poisons.
+C) storing products of metabolism (e.g. sugar in sugar beet root cell vacuoles)
+D) helping increase the size of cells by absorbing water and producing pressure (turgor) against the wall.
+E) All of the choices are correct.
+ 
+=
+The fluid mosaic model describes the plasma membrane as consisting of
+A) two layers of phospholipids with protein sandwiched between them.
+B) a protein bilayer with embedded phospholipids.
+C) a phospholipid single layer with embedded proteins
+D) a phospholipid bilayer with embedded proteins
+ 
+=
+Membrane phospholipids
+A) have hydrophilic heads that face outward and are exposed to water.
+B) have hydrophobic tails that face inward and are shielded from water.
+C) Both A & B are correct
+D) None of the choices are correct.
+ 
+=
+The cholesterol associated with cell membranes
+A) is attached to membrane proteins and extends into the watery environment surrounding the cell.
+B) helps to stabilize the cell membrane at higher or lower temperature.
+C) is an abnormality resulting from a diet high in cholesterol.
+D) makes the cell membrane fluid at room temperature.
+E) None of the choices are correct.
+ 
+=
+Low density lipoproteins (LDL’s or bad cholesterol) are taken up “in-bulk” into the cytoplasm of a cell. This
+process is an example of
+A) endocytosis. B) exocytosis. C) molecular transport.
+D) osmosis. E) diffusion.
+ 
+=
+Diffusion does not require the cell to expend ATP. Therefore, diffusion is considered a type of
+A) endocytosis. B) exocytosis. C) active transport. D) passive transport.
+ 
+=
+Which of the following is not a true statement about diffusion? Diffusion
+A) occurs from a high to a low concentration B) occurs from a low to a high concentration
+ 
+=
+A major function of glycoproteins and glycolipids in the cell membrane is to
+A) allow the cells to recognize each other. B) help the cell retain its shape.
+C) help the cell resist swelling. D) glue cells together to form tissues.
+E) attach the cell membrane to the cytoskeleton.
+ 
+=
+The act of a white blood cell engulfing a bacterium is
+A) endocytosis B) exocytosis. C) osmosis. D) diffusion.
+ 
+=
+Which one of the following is not a function of the plasma membrane? The plasma membrane
+A) has receptors for chemical messages. B) plays a role in signal transduction.
+C) is involved in self-recognition. D) is the control center of the cell.
+E) forms a selective barrier around the cell.
+ 
+=
+Which one of the following is not a function of membrane proteins? Membrane proteins
+A) provide cellular identification tags. B) attach the membrane to the cytoskeleton.
+C) serve as enzymes. D) form junctions between cells.
+E) All of the choices are membrane protein functions.
+ 
+=
+Which one of the following processes could result in the net movement of a substance into a cell, if the
+substance is more concentrated in the cell than in the surroundings?
+A) active transport B) diffusion C) osmosis
+D) facilitated diffusion E) None of the choices are correct.
+ 
+=
+What is the immediate source of energy for active transport?
+A) carbohydrates B) lipids C) ATP D) A & B
+ 
+=
+Which of the following terms is used to describe a membrane protein capable of moving substances from a low
+to a high concentration?
+A) transporter B) pump C) diffuser D) oxidizer E) reducer
+ 
+=
+Active transport
+A) can move solutes up a concentration gradient. B) requires the cell to expend energy.
+C) uses ATP as an energy source. D) is necessary to allow nerves to function properly.
+E) All of the choices are correct.
+ 
+=
+Passive movement of a molecule across a biological membrane requires _______ and moves a substance ______
+its concentration gradient.
+A) transport proteins . . . against B) energy . . . down C) energy and transport proteins . . . down
+D) transport proteins . . . down E) energy and transport proteins . . . against
+ 
+=
+The model on the left shows small molecules moving through a large “porous”
+opening. What kind of macromolecule would you expect the opening to be?
+A) phospholipid
+B) protein
+C) nucleic acid
+D) molecular sieve
+ 
+=
+When physicians perform an organ transplant, they choose a donor whose tissues match those of the recipient as
+closely as possible. Which of the following cell components are being matched?
+A) plasma membrane phospholipids B) cell-surface carbohydrates
+C) plasma membrane proteins D) cytoskeletal elements
+ 
+=
+Since cholesterol is a lipid, it diffuses easily into (or out of) cells because it interacts with the nonpolar regions
+of phospholipids. (Hint: Think about LDL discussed in class.)
+A) True B) False
+ 
+=
+Examine the diagram on the left. The process illustrated by the
+neurotransmitter leaving the sending neuron is called
+A) endocytosis
+B) exocytosis
+C) passive transport
+D) protein synthesis
+E) transporter reuptake
+ 
+=
+end
